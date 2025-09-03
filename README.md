@@ -38,13 +38,12 @@ interested in:
   {
     "AI";
     "robotics";
-    "learning Japanese & getting into biomedical systems basics";
-    "medical systems";
-    "life in japan";
+    "learning Japanese & getting into cybersecurity systems basics";
+    "security systems";
     "paint with acrylic and oil painting";
   }
 
-goal:  live and work in as a biomedical engineer while embracing my artist side 
+goal:  live and work in as a cybersecurity engineer while embracing my artist side 
 ```
 &ThickSpace;
 
