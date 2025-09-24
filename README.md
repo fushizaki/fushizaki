@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>Biomedical</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
+  <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>Cybersecurity</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
   </p>
 
 
