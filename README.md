@@ -7,7 +7,6 @@
 <!-- 0:FB3FEB,100:FFE629-->
 
 <p align="center"> 
-<img src="https://media.tenor.com/F9ogau8JCBQAAAAi/mita-miside-oshinokodance-oshinokodance.gif" width="250" height="250" />
 </p>
 
 
