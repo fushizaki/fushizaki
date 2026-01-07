@@ -38,7 +38,7 @@ interested in:
   {
     "AI";
     "robotics";
-    "learning Japanese & getting into cybersecurity systems basics";
+    "learning new cultures & getting into cybersecurity systems basics";
     "security systems";
     "paint with acrylic and oil painting";
   }
