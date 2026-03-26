@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>Cybersecurity</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
+  <B>CS</B> Student&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; Future <B>AI</B> Engineer&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace;  &ThickSpace; 𐙚 ‧₊˚ ⋅&ZeroWidthSpace; &ZeroWidthSpace; &ZeroWidthSpace; &ThickSpace; Dreaming of <B>traveling</B> 
   </p>
 
 
@@ -42,7 +42,7 @@ interested in:
     "paint with acrylic and oil painting";
   }
 
-goal:  live and work in as a cybersecurity engineer while embracing my artist side 
+goal:  live and work in as an AI engineer while embracing my artist side 
 ```
 &ThickSpace;
 
