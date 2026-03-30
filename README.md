@@ -37,8 +37,9 @@ interested in:
   {
     "AI";
     "flowers and nature";
-    "learning new cultures & getting into AI basics";
+    "learning new cultures";
     "healthy food";
+    "artistic movies";
     "paint with acrylic and oil painting";
   }
 
