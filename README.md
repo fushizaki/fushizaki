@@ -29,16 +29,16 @@ name :  ilona
 age :  19
 school :  IUT Orléans
   {
-    "soon heading to beijing institute of technology (2026) for an exchange";
-    "planning to attend an engineering school after my CS degree";
+    "currently in beijing institute of technology (2026) for an exchange";
+    "planning on doing a master in a university overseas";
   }
 
 interested in:
   {
     "AI";
-    "robotics";
-    "learning new cultures & getting into cybersecurity systems basics";
-    "security systems";
+    "flowers and nature";
+    "learning new cultures & getting into AI basics";
+    "healthy food";
     "paint with acrylic and oil painting";
   }
 
