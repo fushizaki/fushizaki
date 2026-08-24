@@ -26,7 +26,7 @@
 
 ```swift
 name :  ilona
-age :  19
+age :  20
 school :  IUT Orléans
   {
     "currently in beijing institute of technology (2026) for an exchange";
